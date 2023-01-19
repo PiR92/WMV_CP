@@ -1,0 +1,631 @@
+strain	Virus	date	accesion	host	country	region	db	segment	url
+WMV-Fr_france_1972	WMV	1972-XX-XX	NC_006262.1	Zucchini	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/NC_006262.1
+IT87-620_Italy_1987	WMV	1987-XX-XX	DQ845066.1		Italy	Italy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845066.1
+CHI87-620_Chile_1987	WMV	1987-XX-XX	DQ845064.1		Chile	Chile	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845064.1
+AUST89_Australia_1989	WMV	1989-XX-XX	DQ845040.1		Australia	Australia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845040.1
+F-NERAC_France_1989	WMV	1989-XX-XX	DQ845051.1		France	Nerac	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845051.1
+F-VAL_France_1991	WMV	1991-XX-XX	DQ845044.1		France	Valence	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845044.1
+TURK91_Turkey_1991	WMV	1991-XX-XX	DQ845059.1		Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845059.1
+USA92_USA_1992	WMV	1992-XX-XX	DQ845032.1		USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845032.1
+ALG93_Algeria_1993	WMV	1993-XX-XX	DQ845063.1		Algeria	Algeria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845063.1
+ARG94_Argentina_1994	WMV	1994-XX-XX	DQ845043.1		Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845043.1
+MAD95.8_Spain_1995	WMV	1995-XX-XX	AJ579512.1	Melon	Spain	Madrid	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579512.1
+MAD95.1_Spain_1995	WMV	1995-XX-XX	AJ579506.1	Melon	Spain	Madrid	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579506.1
+BAD95.3_Spain_1995	WMV	1995-XX-XX	AJ579504.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579504.1
+MUR95.4_Spain_1995	WMV	1995-XX-XX	AJ579501.1	Melon	Spain	Murcia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579501.1
+VAL95.2_Spain_1995	WMV	1995-XX-XX	AJ579498.1	Melon	Spain	Valencia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579498.1
+BAR95.2_Spain_1995	WMV	1995-XX-XX	AJ579490.1	Melon	Spain	Barcelona	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579490.1
+ZAR95.1_Spain_1995	WMV	1995-XX-XX	AJ579482.1	Melon	Spain	Zaragoza	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579482.1
+CH98-47_China_1998	WMV	1998-XX-XX	DQ845034.1		China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845034.1
+MAL99.5_Spain_1999	WMV	1999-XX-XX	AJ579524.1	Melon	Spain	Malaga	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579524.1
+MAL99.2_Spain_1999	WMV	1999-XX-XX	AJ579521.1	Melon	Spain	Malaga	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579521.1
+SG99.3_Spain_1999	WMV	1999-XX-XX	AJ579519.1	Melon	Spain	Segovia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579519.1
+MAD99.4_Spain_1999	WMV	1999-XX-XX	AJ579516.1	Melon	Spain	Madrid	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AJ579516.1
+IR00-43_Iran_2000	WMV	2000-XX-XX	DQ845042.1		Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845042.1
+FMF00-LL1_france_2000	WMV	2001-XX-XX	EU660581.1	Zucchini	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/EU660581.1
+FMF00-LL2_France_2000	WMV	2000-XX-XX	DQ845048.1		France	Montfavet	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845048.1
+IT00-G_Italy_2000	WMV	2000-XX-XX	DQ845061.1		Italy	Italy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845061.1
+FNI01-5_France_2001	WMV	2001-XX-XX	DQ845049.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845049.1
+FMF01-B_France_2001	WMV	2001-XX-XX	DQ845047.1		France	Montfavet	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845047.1
+Polynesia_France_2001	WMV	2001-XX-XX	DQ845065.1		French Polynesia	French Polynesia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845065.1
+F-PERP_France_2001	WMV	2001-XX-XX	DQ845062.1		France	Perpignan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845062.1
+FMF01-A_France_2001	WMV	2001-XX-XX	DQ845060.1		France	Montfavet	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845060.1
+F-ANGERS_France_2001	WMV	2001-XX-XX	DQ845057.1		France	Angers	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845057.1
+FNI01-4_France_2001	WMV	2001-XX-XX	DQ845055.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845055.1
+234-2002_Italy_2002	WMV	2002-XX-XX	MN186474.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186474.1
+CHI02-481_Chile_2002	WMV	2002-XX-XX	DQ845056.1		Chile	Chile	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845056.1
+FNI02-A_France_2002	WMV	2002-XX-XX	DQ845054.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845054.1
+FNI02-T_France_2002	WMV	2002-XX-XX	DQ845053.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845053.1
+F-ALSACE_France_2002	WMV	2002-XX-XX	DQ845052.1		France	Alsace	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845052.1
+SL02-C2_Slovakia_2002	WMV	2002-XX-XX	DQ845050.1		Slovakia	Slovakia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845050.1
+FNI02-L_France_2002	WMV	2002-XX-XX	DQ845046.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845046.1
+FNI02-C_France_2002	WMV	2002-XX-XX	DQ845045.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845045.1
+IR02-79_Iran_2002	WMV	2002-XX-XX	DQ845041.1		Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845041.1
+IR02-10_Iran_2002	WMV	2002-XX-XX	DQ845058.1		Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845058.1
+SL02-H4_Slovakia_2002	WMV	2002-XX-XX	DQ845069.1		Slovakia	Slovakia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845069.1
+FNI02-34_France_2002	WMV	2002-XX-XX	DQ845068.1		France	Nimes	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845068.1
+FBA02-06_France_2002	WMV	2002-XX-XX	DQ845067.1		France	Balandran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845067.1
+238-2002_Italy_2002	WMV	2002-XX-XX	MN186475.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186475.1
+WMV-HLJ_China_2003	WMV	2003-XX-XX	AY464948.1		China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/AY464948.1
+AZ03-06_Azerbaijan_2003	WMV	2003-XX-XX	DQ845073.1		Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845073.1
+AZ03-14_Azerbaijan_2003	WMV	2003-XX-XX	DQ845071.1		Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845071.1
+WMV-Pk_pakistan_2003	WMV	2003-XX-XX	AB218280.1	Melon	Pakistan 	Pakistan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/AB218280.1
+FMF03-141_france_2003	WMV	2003-XX-XX	EU660583.1	Zucchini	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/EU660583.1
+KER.KE.1_Iran_2004	WMV	2004-XX-XX	EU667644.1	Melon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU667644.1
+ESF.ZA.3_Iran_2004	WMV	2004-XX-XX	EU667642.1	Cucumber	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU667642.1
+CT04_01_Croatia_2004	WMV	2004-XX-XX	DQ845070.1		Croatia	Croatia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ845070.1
+C04-106_france_2004	WMV	2004-XX-XX	JF273469.1	Melon	France	Maillane	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273469.1
+FBR04-37_france_2004	WMV	2004-XX-XX	EU660586.1	Zucchini	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/EU660586.1
+337-2005_Italy_2005	WMV	2005-XX-XX	MN186476.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186476.1
+E4-C05-581_France_2005	WMV	2005-XX-XX	EU937562.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU937562.1
+CA-C04-371_France_2005	WMV	2005-XX-XX	EU937541.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU937541.1
+ESF.ZA.1_Iran_2005	WMV	2005-XX-XX	EU667639.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU667639.1
+YAZ.SH.1_Iran_2005	WMV	2005-XX-XX	EU667635.1	Melon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU667635.1
+KER.JI.1_Iran_2005	WMV	2005-XX-XX	EU667627.1	Colocynth	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU667627.1
+WMV-CHN_china_2005	WMV	2005-XX-XX	DQ399708.1	Watermelon	China	China	genbank		https://www.ncbi.nlm.nih.gov/nuccore/DQ399708.1
+C05-270_france_2005	WMV	2005-XX-XX	EU660585.1	Melon	France	France	genbank		 https://www.ncbi.nlm.nih.gov/nuccore/EU660585.1
+C05-337_france_2005	WMV	2005-XX-XX	EU660589.1	Zucchini	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/EU660589.1
+C05-465_france_2005	WMV	2005-XX-XX	JF273460.1	Zucchini	France	Garons	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273460.1
+C05-464_france_2005	WMV	2005-XX-XX	JF273459.1	Zucchini	France	Garons	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273459.1
+C05-463_france_2005	WMV	2005-XX-XX	JF273458.1	Zucchini	France	Garons	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273458.1
+363-2006_Italy_2006	WMV	2006-XX-XX	MN186482.1	Melon	Italy	Basilicata	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186482.1
+353-2006_Italy_2006	WMV	2006-XX-XX	MN186481.1	Melon	Italy	Marche	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186481.1
+342-2006_Italy_2006	WMV	2006-XX-XX	MN186480.1	Cucumber	Italy	Sicily	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186480.1
+304-2006_Italy_2006	WMV	2006-XX-XX	MN186478.1	Pumpkin	Italy	Campania	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186478.1
+E2-C05-125_France_2006	WMV	2006-XX-XX	EU937559.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU937559.1
+C06-666_france_2006	WMV	2006-XX-XX	EU660588.1	Zucchini	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/EU660589.1
+C06-188_france_2006	WMV	2006-XX-XX	EU660587.1	Cucumber	France	France	genbank		https://www.ncbi.nlm.nih.gov/nuccore/EU660587.1
+C06-257_france_2006	WMV	2006-XX-XX	JF273463.1	Melon	France	Saint Chaptes	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273463.1
+C06-526_france_2006	WMV	2006-XX-XX	JF273462.1	Melon	France	Bourdi	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273462.1
+MS-2_USA_2007	WMV	2007-XX-XX	MG021267.1	Zucchini	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021267.1
+MS-1_USA_2007	WMV	2007-XX-XX	MG021266.1	Melon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021266.1
+E1-C06-132_France_2007	WMV	2007-XX-XX	EU937554.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU937554.1
+C07-284_france_2007	WMV	2007-XX-XX	JF273468.1	Zucchini	France	La Tour d'Aigues	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273468.1
+C07-014_france_2007	WMV	2007-XX-XX	JF273464.1	Melon	France	Aubignan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273464.1
+C07-349_france_2007	WMV	2007-XX-XX	JF273461.1	Melon	France	Saint Chaptes	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273461.1
+Watermelon_south_korea_2007	WMV	2007-XX-XX	AB369278.1	Melon	South Korea		genbank		https://www.ncbi.nlm.nih.gov/nuccore/AB369278.1
+159-08_Serbia_2008.2	WMV	2008-XX-XX	JF325891.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF325891.1
+MS-3_USA_2008	WMV	2008-XX-XX	MG021268.1	Zucchini	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021268.1
+OK-1_USA_2008	WMV	2008-XX-XX	MG021247.1	Zucchini	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021247.1
+159-08_Serbia_2008	WMV	2008-XX-XX	GU144020.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU144020.1
+WMV-GN_Poland_2008	WMV	2008-XX-XX	FJ628395.1	Pumpkin	Poland	Poland	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ628395.1
+Shiraz_Iran_2008	WMV	2008-XX-XX	GQ421161.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ421161.1
+Kordkuy-127_Iran_2008	WMV	2008-XX-XX	GQ421160.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ421160.1
+Gorgan-Iran_2008	WMV	2008-XX-XX	GQ421159.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ421159.1
+Mashhad_Iran_2008	WMV	2008-XX-XX	GQ421158.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ421158.1
+Gonbad-68_Iran_2008	WMV	2008-XX-XX	GQ421157.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ421157.1
+B-Torkaman-129_Iran_2008	WMV	2008-XX-XX	GQ421156.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ421156.1
+137-08_Iran_2008	WMV	2008-XX-XX	GQ259958.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ259958.1
+A08-170_france_2008	WMV	2008-XX-XX	JF273466.1	Zucchini	France	Aubignan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273466.1
+A08-160_france_2008	WMV	2008-XX-XX	JF273465.1	Zucchini	France	Aubignan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273465.1
+C08-451_france_2008	WMV	2008-XX-XX	MN914158.1	Zucchini	France	Nice	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN914158.1
+GBVC_WMV_01_Belgium_2008	WMV	2008-XX-XX	KP980629.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980629.1
+Lecce_italy_2009	WMV	2009-XX-XX	FJ823122.1	Watermelon	Italy	Lecce	genbank		https://www.ncbi.nlm.nih.gov/nuccore/FJ823122.1
+Cg09-640_france_2009	WMV	2009-XX-XX	JF273467.1	Zucchini	France	Montfavet	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JF273467.1
+GBVC_WMV_05_Belgium_2009	WMV	2009-XX-XX	KP980633.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980633.1
+GBVC_WMV_04_Belgium_2009	WMV	2009-XX-XX	KP980632.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980632.1
+GBVC_WMV_03_Belgium_2009	WMV	2009-XX-XX	KP980631.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980631.1
+GBVC_WMV_02_Belgium_2009	WMV	2009-XX-XX	KP980630.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980630.1
+punggi1_South_Korea_2009	WMV	2009-XX-XX	KF637299.1Panax ginseng		South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF637299.1
+OK-6_USA_2009	WMV	2009-XX-XX	MG021252.1	Melon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021252.1
+OK-5_USA_2009	WMV	2009-XX-XX	MG021251.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021251.1
+OK-4_USA_2009	WMV	2009-XX-XX	MG021250.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021250.1
+OK-3_USA_2009	WMV	2009-XX-XX	MG021249.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021249.1
+AW.Uro_Iran_2009	WMV	2009-XX-XX	JN166703.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166703.1
+Kh.R.To_Iran_2009	WMV	2009-XX-XX	JN166702.1	Melon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166702.1
+AE.Bon_Iran_2009	WMV	2009-XX-XX	JN166701.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166701.1
+Kh.N.Sh_Iran_2009	WMV	2009-XX-XX	JN166700.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166700.1
+Ard.Me_Iran_2009	WMV	2009-XX-XX	JN166705.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166705.1
+Kh.N.Ja_Iran_2009	WMV	2009-XX-XX	JN166710.1	Cucumber	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166710.1
+Kh.N.Boj_Iran_2009	WMV	2009-XX-XX	JN166708.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166708.1
+WMV23-10_Syria_2009	WMV	2009-XX-XX	MK614763.1	Zucchini	Syria	Syria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614763.1
+WMV23-9_Syria_2009	WMV	2009-XX-XX	MK614762.1	Zucchini	Syria	Syria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614762.1
+WMV23-8_Syria_2009	WMV	2009-XX-XX	MK614761.1	Zucchini	Syria	Syria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614761.1
+WMV15-12_Syria_2009	WMV	2009-XX-XX	MK614760.1	Pumpkin	Syria	Syria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614760.1
+WMV15-2_Syria_2009	WMV	2009-XX-XX	MK614759.1	Watermelon	Syria	Syria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614759.1
+WMV14-1_Syria_2009	WMV	2009-XX-XX	MK614758.1	Snake gourd	Syria	Syria	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614758.1
+36-2009_Italy_2009	WMV	2009-XX-XX	MN186483.1	Pumpkin	Italy	Sicily	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186483.1
+268-09_Serbia_2009	WMV	2009-XX-XX	JX262116.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262116.1
+256-09_Serbia_2009	WMV	2009-XX-XX	JX262115.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262115.1
+160-09_Serbia_2009	WMV	2009-XX-XX	JX262101.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262101.1
+HQ11-66_USA_2009	WMV	2009-XX-XX	JX028594.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX028594.1
+WMV-Tr_Turkey_2009	WMV	2009-XX-XX	KF589920.1	Watermelon	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF589920.1
+499-10_Serbia_2009	WMV	2009-XX-XX	JX262104.1	Watermelon	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262104.1
+VE10-099_venezuela_2010	WMV	2010-XX-XX	KC292915.1	Cucumis anguria L.	Venezuela	Venezuela	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KC292915.1
+Dendrobium_usa_2010	WMV	2010-XX-XX	HQ384216.1	Dendrobium anosmum	USA	Hawaii	genbank		https://www.ncbi.nlm.nih.gov/nuccore/HQ384216.1
+TX113_usa_2010	WMV	2010-XX-XX	MN686524.1	Wild watermelon	USA	USA	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN686524.1
+TX29_usa_2010	WMV	2010-XX-XX	KU246036.1	Watermelon	USA	Texas	genbank		 https://www.ncbi.nlm.nih.gov/nuccore/KU246036.1
+W59_Turkey_2010	WMV	2010-XX-XX	KF021300.1	Pumpkin	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF021300.1
+W2_Turkey_2010	WMV	2010-XX-XX	KF021298.1	Cucumber	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF021298.1
+RS-22_USA_2010	WMV	2010-XX-XX	JX028595.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX028595.1
+TX-22_USA_2010	WMV	2010-XX-XX	MG021303.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021303.1
+TX-21_USA_2010	WMV	2010-XX-XX	MG021302.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021302.1
+TX-20_USA_2010	WMV	2010-XX-XX	MG021301.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021301.1
+TX-19_USA_2010	WMV	2010-XX-XX	MG021300.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021300.1
+TX-18_USA_2010	WMV	2010-XX-XX	MG021299.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021299.1
+TX-17_USA_2010	WMV	2010-XX-XX	MG021298.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021298.1
+TX-16_USA_2010	WMV	2010-XX-XX	MG021297.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021297.1
+TX-15_USA_2010	WMV	2010-XX-XX	MG021296.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021296.1
+TX-14_USA_2010	WMV	2010-XX-XX	MG021295.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021295.1
+TX-13_USA_2010	WMV	2010-XX-XX	MG021294.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021294.1
+TX-12_USA_2010	WMV	2010-XX-XX	MG021293.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021293.1
+TX-11_USA_2010	WMV	2010-XX-XX	MG021292.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021292.1
+TX-10_USA_2010	WMV	2010-XX-XX	MG021291.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021291.1
+TX-9_USA_2010	WMV	2010-XX-XX	MG021290.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021290.1
+TX-8_USA_2010	WMV	2010-XX-XX	MG021289.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021289.1
+TX-7_USA_2010	WMV	2010-XX-XX	MG021288.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021288.1
+TX-6_USA_2010	WMV	2010-XX-XX	MG021287.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021287.1
+TX-5_USA_2010	WMV	2010-XX-XX	MG021286.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021286.1
+TX-4_USA_2010	WMV	2010-XX-XX	MG021285.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021285.1
+TX-3_USA_2010	WMV	2010-XX-XX	MG021284.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021284.1
+TX-2_USA_2010	WMV	2010-XX-XX	MG021283.1	Cucumber	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021283.1
+TX-1_USA_2010	WMV	2010-XX-XX	MG021282.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021282.1
+AR-7_USA_2010	WMV	2010-XX-XX	MG021281.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021281.1
+AR-6_USA_2010	WMV	2010-XX-XX	MG021280.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021280.1
+AR-5_USA_2010	WMV	2010-XX-XX	MG021279.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021279.1
+AR-4_USA_2010	WMV	2010-XX-XX	MG021278.1	Melon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021278.1
+AR-2_USA_2010	WMV	2010-XX-XX	MG021277.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021277.1
+AR-3_USA_2010	WMV	2010-XX-XX	MG021276.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021276.1
+AR-1_USA_2010	WMV	2010-XX-XX	MG021275.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021275.1
+LA-1_USA_2010	WMV	2010-XX-XX	MG021274.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021274.1
+KY-1_USA_2010	WMV	2010-XX-XX	MG021273.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021273.1
+GA-2_USA_2010	WMV	2010-XX-XX	MG021272.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021272.1
+GA-1_USA_2010	WMV	2010-XX-XX	MG021271.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021271.1
+AL-1_USA_2010	WMV	2010-XX-XX	MG021270.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021270.1
+MS-4_USA_2010	WMV	2010-XX-XX	MG021269.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021269.1
+OK-15_USA_2010	WMV	2010-XX-XX	MG021261.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021261.1
+OK-14_USA_2010	WMV	2010-XX-XX	MG021260.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021260.1
+OK-13_USA_2010	WMV	2010-XX-XX	MG021259.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021259.1
+OK-12_USA_2010	WMV	2010-XX-XX	MG021258.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021258.1
+OK-11_USA_2010	WMV	2010-XX-XX	MG021257.1	Pigweed	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021257.1
+OK-10_USA_2010	WMV	2010-XX-XX	MG021256.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021256.1
+OK-9_USA_2010	WMV	2010-XX-XX	MG021255.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021255.1
+OK-8_USA_2010	WMV	2010-XX-XX	MG021254.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021254.1
+OK-7_USA_2010	WMV	2010-XX-XX	MG021253.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021253.1
+OK-2_USA_2010	WMV	2010-XX-XX	MG021248.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021248.1
+WMV-SA_Saudi_Arabia_2010	WMV	2010-XX-XX	KC447295.1	Watermelon	Saudi Arabia	Saudi Arabia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KC447295.1
+Kh.S.Nah_Iran_2010	WMV	2010-XX-XX	JN166711.1	Melon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166711.1
+Kh.S.Gh_Iran_2010	WMV	2010-XX-XX	JN166709.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166709.1
+Kh.S.Bir_Iran_2010	WMV	2010-XX-XX	JN166707.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166707.1
+Kh.R.Sab_Iran_2010	WMV	2010-XX-XX	JN166697.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166697.1
+Urmia_Iran_2010	WMV	2010-XX-XX	JN597238.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN597238.1
+GBVC_WMV_18_Belgium_2010	WMV	2010-XX-XX	KP980646.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980646.1
+GBVC_WMV_17_Belgium_2010	WMV	2010-XX-XX	KP980645.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980645.1
+GBVC_WMV_16_Belgium_2010	WMV	2010-XX-XX	KP980644.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.g1ov/nuccore/KP980644.1
+GBVC_WMV_15_Belgium_2010	WMV	2010-XX-XX	KP980643.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980643.1
+GBVC_WMV_14_Belgium_2010	WMV	2010-XX-XX	KP980642.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980642.1
+GBVC_WMV_13_Belgium_2010	WMV	2010-XX-XX	KP980641.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980641.1
+GBVC_WMV_12_Belgium_2010	WMV	2010-XX-XX	KP980640.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980640.1
+GBVC_WMV_11_Belgium_2010	WMV	2010-XX-XX	KP980639.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980639.1
+GBVC_WMV_10_Belgium_2010	WMV	2010-XX-XX	KP980638.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980638.1
+GBVC_WMV_9_Belgium_2010	WMV	2010-XX-XX	KP980637.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980637.1
+GBVC_WMV_08_Belgium_2010	WMV	2010-XX-XX	KP980636.1	Pumpkin	Netherlands	Netherlands	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980636.1
+GBVC_WMV_07_Belgium_2010	WMV	2010-XX-XX	KP980635.1	Pumpkin	Netherlands	Netherlands	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980635.1
+GBVC_WMV_06_Belgium_2010	WMV	2010-XX-XX	KP980634.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980634.1
+466-10_Serbia_2010	WMV	2010-XX-XX	JX262103.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262103.1
+381-10_Serbia_2010	WMV	2010-XX-XX	JX262102.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262102.1
+84SDE_Argentina_2011	WMV	2011-XX-XX	MN006941.1	Pumpkin	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN006941.1
+FL-4_USA_2011	WMV	2011-XX-XX	MG021265.1	Watermelon	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021265.1
+FL-3_USA_2011	WMV	2011-XX-XX	MG021264.1	Cucumber	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021264.1
+FL-2_USA_2011	WMV	2011-XX-XX	MG021263.1	Pumpkin	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021263.1
+FL-1_USA_2011	WMV	2011-XX-XX	MG021262.1	Zucchini	USA	USA	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG021262.1
+Maz.Beh_Iran_2011	WMV	2011-XX-XX	JN166706.1	Watermelon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166706.1
+Gol.Al_Iran_2011	WMV	2011-XX-XX	JN166704.1	Watermelon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166704.1
+Maz.Sav_Iran_2011	WMV	2011-XX-XX	JN166699.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166699.1
+Maz.Sar_Iran_2011	WMV	2011-XX-XX	JN166698.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JN166698.1
+GBVC_WMV_23_Belgium_2011	WMV	2011-XX-XX	KP980651.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980651.1
+GBVC_WMV_22_Belgium_2011	WMV	2011-XX-XX	KP980650.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980650.1
+GBVC_WMV_21_Belgium_2011	WMV	2011-XX-XX	KP980649.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980649.1
+GBVC_WMV_20_Belgium_2011	WMV	2011-XX-XX	KP980648.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980648.1
+717-11_Serbia_2011	WMV	2011-XX-XX	JX262114.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262114.1
+714-11_Serbia_2011	WMV	2011-XX-XX	JX262113.1	Pumpkin	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262113.1
+613-11_Serbia_2011	WMV	2011-XX-XX	JX262110.1	Melon	Serbia	Serbia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262110.1
+2.1Me_Mu_Mos_2011	WMV	2011-XX-XX	OM948812.1	Melon	Spain	Murcia	genbank		
+YAZ.WMV55_Iran_2012	WMV	2012-XX-XX	KP162269.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP162269.1
+YAZ.WMV41_Iran_2012	WMV	2012-XX-XX	KP162268.1	Cucumber	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP162268.1
+4K_Ukraine_2012	WMV	2012-XX-XX	KJ461321.1	Cucumber	Ukraine	Ukraine	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KJ461321.1
+2G_Ukraine_2012	WMV	2012-XX-XX	KJ461320.1	Pumpkin	Ukraine	Ukraine	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KJ461320.1
+28-2012_Italy_2012	WMV	2012-XX-XX	MN186490.1	Pumpkin	Italy	Piedmont	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186490.1
+27-2012_Italy_2012	WMV	2012-XX-XX	MN186489.1	Pumpkin	Italy	Piedmont	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186489.1
+26-2012_Italy_2012	WMV	2012-XX-XX	MN186488.1	Pumpkin	Italy	Piedmont	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186488.1
+19-2012_Italy_2012	WMV	2012-XX-XX	MN186487.1	Pumpkin	Italy	Veneto	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186487.1
+13-2012_Italy_2012	WMV	2012-XX-XX	MN186486.1	Pumpkin	Italy	Campania	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186486.1
+12-2012_Italy_2012	WMV	2012-XX-XX	MN186485.1	Pumpkin	Italy	Campania	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186485.1
+GBVC_WMV_31_Belgium_2012	WMV	2012-XX-XX	KP980659.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980659.1
+GBVC_WMV_30_Belgium_2012	WMV	2012-XX-XX	KP980658.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980658.1
+GBVC_WMV_29_Belgium_2012	WMV	2012-XX-XX	KP980657.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980657.1
+GBVC_WMV_28_Belgium_2012	WMV	2012-XX-XX	KP980656.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980656.1
+GBVC_WMV_27_Belgium_2012	WMV	2012-XX-XX	KP980655.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980655.1
+GBVC_WMV_26_Belgium_2012	WMV	2012-XX-XX	KP980654.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980654.1
+GBVC_WMV_25_Belgium_2012	WMV	2012-XX-XX	KP980653.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980653.1
+GBVC_WMV_24_Belgium_2012	WMV	2012-XX-XX	KP980652.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980652.1
+307-12_Serbia_2012	WMV	2012-XX-XX	KF517099.1	Pumpkin	Bosnia and Herzegovina	Bosnia and Herzegovina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF517099.1
+MQ57_Argentina_2012	WMV	2012-XX-XX	MN019129.1	Melon	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN019129.1
+9BA_Argentina_2012	WMV	2012-XX-XX	MN006942.1	Pumpkin	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN006942.1
+WMV1_SDEFF_argentina_2012	WMV	2012-XX-XX	KP164988.1		Argentina	Argentina	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KP164988.1
+WMV-ShanXi_china_2012	WMV	2012-XX-XX	JX079685.1	Watermelon	China	China	genbank		https://www.ncbi.nlm.nih.gov/nuccore/JX079685.1
+BL-16_usa_2012	WMV	2012-XX-XX	MN686525.1	Watermelon	USA	USA	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN686525.1
+Yeongyang3_south_korea_2012	WMV	2012-XX-XX	KU240110.1		South Korea	Yeongyang	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240110.1
+Yeonju9_south_korea_2012	WMV	2012-XX-XX	KU240109.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240109.1
+Yeonju5_south_korea_2012	WMV	2012-XX-XX	KU240108.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240108.1
+Yeongam2-1_2_south_korea_2012	WMV	2012-XX-XX	KU240107.1	Panax ginseng C.A. Meyer	South Korea	Yeongam	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240107.1
+Sangju7-1_south_korea_2012	WMV	2012-XX-XX	KU240106.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240106.1
+Sangju6_south_korea_2012	WMV	2012-XX-XX	KU240105.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240105.1
+Sangju6-1_south_korea_2012	WMV	2012-XX-XX	KU240104.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240104.1
+Sangju2_south_korea_2012	WMV	2012-XX-XX	KU240103.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240103.1
+Pungjeonglee3_south_korea_2012	WMV	2012-XX-XX	KU240102.1	Panax ginseng C.A. Meyer	South Korea	Pungjeonglee	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240102.1
+Pungjeonglee1_south_korea_2012	WMV	2012-XX-XX	KU240101.1	Panax ginseng C.A. Meyer	South Korea	Pungjeonglee	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240101.1
+Naju3-1_2_south_korea_2012	WMV	2012-XX-XX	KU240100.1	Panax ginseng C.A. Meyer	South Korea	Naju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240100.1
+Jeongeup_3-1_south_korea_2012	WMV	2012-XX-XX	KU240099.1	Panax ginseng C.A. Meyer	South Korea	Jeongeup	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240099.1
+Jeongeup_1-1_south_korea_2012	WMV	2012-XX-XX	KU240098.1	Panax ginseng C.A. Meyer	South Korea	Jeongeup	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240098.1
+Gumi4_south_korea_2012	WMV	2012-XX-XX	KU240097.1	Panax ginseng C.A. Meyer	South Korea	Gumi	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240097.1
+Gochang2_south_korea_2012	WMV	2012-XX-XX	KU240096.1	Panax ginseng C.A. Meyer	South Korea	Gochang	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240096.1
+Gimcheon1_south_korea_2012	WMV	2012-XX-XX	KU240095.1	Panax ginseng C.A. Meyer	South Korea	Gimcheon	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240095.1
+Buan2-1_south_korea_2012	WMV	2012-XX-XX	KU240094.1	Panax ginseng C.A. Meyer	South Korea	Buan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KU240094.1
+WWJQ-3_China_2013	WMV	2013-XX-XX	KM527493.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527493.1
+WWJQ-2_China_2013	WMV	2013-XX-XX	KM527492.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527492.1
+WWJQ-1_China_2013	WMV	2013-XX-XX	KM527491.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527491.1
+WSHZ-3_China_2013	WMV	2013-XX-XX	KM527466.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527466.1
+WSHZ-2_China_2013	WMV	2013-XX-XX	KM527466.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527465.1
+WSHZ-1_China_2013	WMV	2013-XX-XX	KM527466.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527464.1
+WJS-10_China_2013	WMV	2013-XX-XX	KM527463.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527463.1
+WJS-9_China_2013	WMV	2013-XX-XX	KM527462.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527462.1
+WJS-8_China_2013	WMV	2013-XX-XX	KM527461.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527461.1
+WJS-7_China_2013	WMV	2013-XX-XX	KM527460.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527460.1
+WJS-6_China_2013	WMV	2013-XX-XX	KM527459.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527459.1
+WJS-5_China_2013	WMV	2013-XX-XX	KM527458.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527458.1
+WJS-4_China_2013	WMV	2013-XX-XX	KM527457.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527457.1
+WJS-3_China_2013	WMV	2013-XX-XX	KM527456.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527456.1
+WJS-2_China_2013	WMV	2013-XX-XX	KM527455.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527455.1
+VHM-4_China_2013	WMV	2013-XX-XX	KM527454.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527454.1
+VHM-3_China_2013	WMV	2013-XX-XX	KM527453.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527453.1
+WJS-1_China_2013	WMV	2013-XX-XX	KM527452.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527452.1
+WTKX-6_China_2013	WMV	2013-XX-XX	KM527485.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527485.1
+WTKX-5_China_2013	WMV	2013-XX-XX	KM527484.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527484.1
+WTKX-4_China_2013	WMV	2013-XX-XX	KM527483.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527483.1
+WTKX-3_China_2013	WMV	2013-XX-XX	KM527482.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527482.1
+WTKX-2_China_2013	WMV	2013-XX-XX	KM527481.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527481.1
+WTKX-1_China_2013	WMV	2013-XX-XX	KM527480.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527480.1
+WMV-Mn_Iran_2013	WMV	2013-XX-XX	KP965809.1	Malva neglecta	Iran	Lorestan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP965809.1
+WMV-Sv_Iran_2013	WMV	2013-XX-XX	KP965808.1	Senecio vulgaris	Iran	Lorestan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP965808.1
+WMV-Golestan_Iran_2013	WMV	2013-XX-XX	KM948591.1	Vigna radiata	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM948591.1
+WMV-Golestan_Iran_2013.2	WMV	2013-XX-XX	KM111534.1	Phaseolus vulgaris	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM111534.1
+GBVC_WMV_47_Belgium_2013	WMV	2013-XX-XX	KP980675.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980675.1
+GBVC_WMV_46_Belgium_2013	WMV	2013-XX-XX	KP980674.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980674.1
+GBVC_WMV_45_Belgium_2013	WMV	2013-XX-XX	KP980673.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980673.1
+GBVC_WMV_44_Belgium_2013	WMV	2013-XX-XX	KP980672.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980672.1
+GBVC_WMV_43_Belgium_2013	WMV	2013-XX-XX	KP980671.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980671.1
+GBVC_WMV_42_Belgium_2013	WMV	2013-XX-XX	KP980670.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980670.1
+GBVC_WMV_41_Belgium_2013	WMV	2013-XX-XX	KP980669.1	Pumpkin	Netherlands	Netherlands	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980669.1
+GBVC_WMV_40_Belgium_2013	WMV	2013-XX-XX	KP980668.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980668.1
+GBVC_WMV_39_Belgium_2013	WMV	2013-XX-XX	KP980667.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980667.1
+GBVC_WMV_38_Belgium_2013	WMV	2013-XX-XX	KP980666.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980666.1
+GBVC_WMV_37_Belgium_2013	WMV	2013-XX-XX	KP98065.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980665.1
+GBVC_WMV_36_Belgium_2013	WMV	2013-XX-XX	KP980664.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980664.1
+GBVC_WMV_35_Belgium_2013	WMV	2013-XX-XX	KP980663.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980663.1
+GBVC_WMV_34_Belgium_2013	WMV	2013-XX-XX	KP980662.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980662.1
+GBVC_WMV_33_Belgium_2013	WMV	2013-XX-XX	KP980661.1	Echinochloa crus-galli	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980661.1
+GBVC_WMV_32_Belgium_2013	WMV	2013-XX-XX	KP980660.1	Pumpkin	Belgium	Belgium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP980660.1
+314-13_Bosnia_and _Herzegovina_2013	WMV	2013-XX-XX	KM212956.1	Watermelon	Bosnia and Herzegovina	Bosnia and Herzegovina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM212956.1
+309-13_Bosnia_and _Herzegovina_2013	WMV	2013-XX-XX	KJ603311.1	Melon	Bosnia and Herzegovina	Bosnia and Herzegovina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KJ603311.1
+SangJu6-1_south_korea_2013	WMV	2013-XX-XX	KP100058.1	Panax ginseng C.A. Meyer	South Korea	South Korea	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KP100058.1
+Yeongyang8-1_south_korea_2013	WMV	2013-XX-XX	KT992093.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992093.1
+Yeongju7-5(sq)_south_korea_2013	WMV	2013-XX-XX	KT992091.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992091.1
+Yeongju7-3_south_korea_2013	WMV	2013-XX-XX	KT992090.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992090.1
+Yeongju7-2(cm)_south_korea_2013	WMV	2013-XX-XX	KT992089.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992089.1
+Yeongju7-2_south_korea_2013	WMV	2013-XX-XX	KT992088.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992088.1
+Yeongju6-1_south_korea_2013	WMV	2013-XX-XX	KT992086.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992086.1
+Yeongju2-3_south_korea_2013	WMV	2013-XX-XX	KT992085.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992085.1
+Vera_spain_2013	WMV	2013-XX-XX	MH469650.1	Panax ginseng C.A. Meyer	Spain	Valencia	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MH469650.1
+Yeongju1-2_south_korea_2013	WMV	2013-XX-XX	KT992083.1	Melon	South Korea	Yeongju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992083.1
+Yeongam2_20_south_korea_2013	WMV	2013-XX-XX	KT992081.1	Panax ginseng C.A. Meyer	South Korea	Yeongam	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992081.1
+Uiseong3-5(sq)_south_korea_2013	WMV	2013-XX-XX	KT992080.1	Panax ginseng C.A. Meyer	South Korea	Uiseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992080.1
+Sangju3_south_korea_2013	WMV	2013-XX-XX	KT992079.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992079.1
+Naju2-2_south_korea_2013	WMV	2013-XX-XX	KT992077.1	Panax ginseng C.A. Meyer	South Korea	Naju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992077.1
+Naju2-1_south_korea_2013	WMV	2013-XX-XX	KT992076.1	Panax ginseng C.A. Meyer	South Korea	Naju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992076.1
+Hongseong1_south_korea_2013	WMV	2013-XX-XX	KT992075.1	Panax ginseng C.A. Meyer	South Korea	Hongseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992075.1
+Cheongsong5_south_korea_2013	WMV	2013-XX-XX	KT992071.1	Panax ginseng C.A. Meyer	South Korea	Cheongsong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992071.1
+Buan4-1_south_korea_2013	WMV	2013-XX-XX	KT992070.1	Panax ginseng C.A. Meyer	South Korea	Buan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992070.1
+WMV_china_2013	WMV	2013-XX-XX	KF274031.1	Ailanthus altissima	China	China	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KF274031.1
+7.2Zu_Al_Mos_2013	WMV	2013-XX-XX	OM948828.1	Zucchini	Spain	Alicante	genbank		
+1.1Me_Mu_Mos_2013	WMV	2013-XX-XX	OM948813.1	Melon	Spain	Murcia	genbank		
+Z17_Iran_2014	WMV	2014-XX-XX	KU352744.1	Zucchini	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352744.1
+Z6_Iran_2014	WMV	2014-XX-XX	KU352743.1	Zucchini	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352743.1
+Z3_Iran_2014	WMV	2014-XX-XX	KU352742.1	Zucchini	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352742.1
+W5_Iran_2014	WMV	2014-XX-XX	KU352741.1	Watermelon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352741.1
+W1_Iran_2014	WMV	2014-XX-XX	KU352740.1	Watermelon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352740.1
+H7_Iran_2014	WMV	2014-XX-XX	KU352739.1	Watermelon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352739.1
+C49_Iran_2014	WMV	2014-XX-XX	KU352738.1	Cucumber	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352738.1
+C44_Iran_2014	WMV	2014-XX-XX	KU352737.1	Cucumber	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352737.1
+B22_Iran_2014	WMV	2014-XX-XX	KU352736.1	Green bean	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352736.1
+B21_Iran_2014	WMV	2014-XX-XX	KU352735.1	Green bean	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU352735.1
+WMV2-JC_South_Korea_2014	WMV	2014-XX-XX	KJ139665.1	Watermelon	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KJ139665.1
+WMV2-CC_South_Korea_2014	WMV	2014-XX-XX	KJ139664.1	Pumpkin	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KJ139664.1
+WMV2-YS_South_Korea_2014	WMV	2014-XX-XX	KJ139663.1	Pumpkin	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KJ139663.1
+NGWC_China_2014	WMV	2014-XX-XX	KT633932.1	Pumpkin	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KT633932.1
+WTLF-5_China_2014	WMV	2014-XX-XX	KM527490.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527490.1
+WTLF-4_China_2014	WMV	2014-XX-XX	KM527489.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527489.1
+WTLF-3_China_2014	WMV	2014-XX-XX	KM527488.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527488.1
+WTLF-2_China_2014	WMV	2014-XX-XX	KM527487.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527487.1
+WTLF-1_China_2014	WMV	2014-XX-XX	KM527486.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527486.1
+WSSTYG-4_China_2014	WMV	2014-XX-XX	KM527479.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527479.1
+WSSTYG-3_China_2014	WMV	2014-XX-XX	KM527478.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527478.1
+WSSTYG-2_China_2014	WMV	2014-XX-XX	KM527477.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527477.1
+WSSTYG-1_China_2014	WMV	2014-XX-XX	KM527476.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527476.1
+WSSPZ-3_China_2014	WMV	2014-XX-XX	KM527475.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527475.1
+WSSPZ-2_China_2014	WMV	2014-XX-XX	KM527474.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527474.1
+WSSPZ-1_China_2014	WMV	2014-XX-XX	KM527473.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527473.1
+WSSLKQ-6_China_2014	WMV	2014-XX-XX	KM527472.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527472.1
+WSSLKQ-5_China_2014	WMV	2014-XX-XX	KM527471.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527471.1
+WSSLKQ-4_China_2014	WMV	2014-XX-XX	KM527470.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527470.1
+WSSLKQ-3_China_2014	WMV	2014-XX-XX	KM527469.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527469.1
+WSSLKQ-2_China_2014	WMV	2014-XX-XX	KM527468.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527468.1
+WSSLKQ-1_China_2014	WMV	2014-XX-XX	KM527467.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527467.1
+WHM-2_China_2014	WMV	2014-XX-XX	KM527451.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527451.1
+WHM-1_China_2014	WMV	2014-XX-XX	KM527450.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527450.1
+WFK-2_China_2014	WMV	2014-XX-XX	KM527449.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527449.1
+WFK-1_China_2014	WMV	2014-XX-XX	KM527448.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527448.1
+WCJ-10_China_2014	WMV	2014-XX-XX	KM527447.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527447.1
+WCJ-9_China_2014	WMV	2014-XX-XX	KM527446.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527446.1
+WCJ-8_China_2014	WMV	2014-XX-XX	KM527445.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527445.1
+WCJ-7_China_2014	WMV	2014-XX-XX	KM527444.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527444.1
+WCJ-6_China_2014	WMV	2014-XX-XX	KM527443.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527443.1
+WCJ-5_China_2014	WMV	2014-XX-XX	KM527442.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527442.1
+WCJ-4_China_2014	WMV	2014-XX-XX	KM527441.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527441.1
+WCJ-3_China_2014	WMV	2014-XX-XX	KM527440.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527440.1
+WCJ-2_China_2014	WMV	2014-XX-XX	KM527439.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527439.1
+WCJ-1_China_2014	WMV	2014-XX-XX	KM527438.1	Melon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KM527438.1
+Z2-Marivan_Iran_2014	WMV	2014-XX-XX	KP751209.1	Pumpkin	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP751209.1
+zz2_China_2014	WMV	2014-XX-XX	KP178171.1	sesame	China	Henan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP178171.1
+T38_China_2014	WMV	2014-XX-XX	KP406639.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406639.1
+X2_China_2014	WMV	2014-XX-XX	KP406640.1	Watermelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406640.1
+T-2-9_China_2014	WMV	2014-XX-XX	KP406641.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406641.1
+T-2-2_China_2014	WMV	2014-XX-XX	KP406642.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406642.1
+SO2-12_China_2014	WMV	2014-XX-XX	KP406643.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406643.1
+SO3-21_China_2014	WMV	2014-XX-XX	KP406644.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406644.1
+T12_China_2014	WMV	2014-XX-XX	KP406645.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP406645.1
+J1W_China_2014	WMV	2014-XX-XX	KP406646.1	Hamimelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KP330247.1
+T14-2014_Italy_2014	WMV	2014-XX-XX	MN186493.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186493.1
+T8-2014_Italy_2014	WMV	2014-XX-XX	MN186492.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186492.1
+T2-2014_Italy_2014	WMV	2014-XX-XX	MN186491.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186491.1
+ESS-AKS1/5_Turkey_2014	WMV	2014-XX-XX	MW362130.1	Pumpkin	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW362130.1
+AZ14-38_Azerbaijan_2014	WMV	2014-XX-XX	MG964228.1	Zucchini	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964228.1
+AZ14-69_Azerbaijan_2014	WMV	2014-XX-XX	MG964227.1	Melon	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964227.1
+AZ14-97_Azerbaijan_2014	WMV	2014-XX-XX	MG964226.1	Cucumber	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964226.1
+AZ14-78_Azerbaijan_2014	WMV	2014-XX-XX	MG964208.1	Watermelon	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964208.1
+AZ14-13_Azerbaijan_2014	WMV	2014-XX-XX	MG964148.1	Zucchini	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964148.1
+Yeongju9_south_korea_2014	WMV	2014-XX-XX	KT992092.1	Panax ginseng C.A. Meyer	South Korea	Yeongju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992092.1
+Yeongju7-1_south_korea_2014	WMV	2014-XX-XX	KT992087.1	Panax ginseng C.A. Meyer	South Korea	Yeongju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992087.1
+Yeongju2-1_south_korea_2014	WMV	2014-XX-XX	KT992084.1	Panax ginseng C.A. Meyer	South Korea	Yeongju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992084.1
+Yeongam4-2_south_korea_2014	WMV	2014-XX-XX	KT992082.1	Panax ginseng C.A. Meyer	South Korea	Yeongam	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992082.1
+Sangju2_south_korea_2014	WMV	2014-XX-XX	KT992078.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992078.1
+Eumseong2-10_south_korea_2014	WMV	2014-XX-XX	KT992074.1	Panax ginseng C.A. Meyer	South Korea	Eumseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992074.1
+Eumseong1-5_south_korea_2014	WMV	2014-XX-XX	KT992073.1	Panax ginseng C.A. Meyer	South Korea	Eumseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992073.1
+Cungju10-1_south_korea_2014	WMV	2014-XX-XX	KT992072.1	Panax ginseng C.A. Meyer	South Korea	Cungju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992072.1
+Buan2_south_korea_2014	WMV	2014-XX-XX	KT992069.1	Panax ginseng C.A. Meyer	South Korea	Buan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992069.1
+Bonghwa7-2_south_korea_2014	WMV	2014-XX-XX	KT992068.1	Panax ginseng C.A. Meyer	South Korea	Bonghwa	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KT992068.1
+RKG2_india_2014	WMV	2014-XX-XX	KM597071.1	Watermelon	India	India	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KM597071.1
+RKG_india_2014	WMV	2014-XX-XX	KM597070.1	Watermelon	India	India	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KM597070.1
+WMV-Pg_china_2014	WMV	2014-XX-XX	KX926428.1	Panax ginseng	China	China	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KX926428.1
+9.2Me_Mu_Mos_2014	WMV	2014-XX-XX	OM948814.1	Melon	Spain	Murcia	genbank		
+Andong_South_Korea_2015	WMV	2015-XX-XX	KU297997.1	Watermelon	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU297997.1
+M3V_19_Spain_2015	WMV	2015-XX-XX	MN839551.1	Melon	Spain	Zarza de Tajo	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839551.1
+M3V_34_Spain_2015	WMV	2015-XX-XX	MN839552.1	Melon	Spain	Zarza de Tajo	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839552.1
+M2V_38_Spain_2015	WMV	2015-XX-XX	MN839550.1	Melon	Spain	Zarza de Tajo	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839550.1
+M1V_49_Spain_2015	WMV	2015-XX-XX	MN839549.1	Convolvulus arvensis	Spain	Villarrubia de Santiago	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839549.1
+M1V_40_Spain_2015	WMV	2015-XX-XX	MN839548.1	Melon	Spain	Villarrubia de Santiago	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839548.1
+M1V_14_Spain_2015	WMV	2015-XX-XX	MN839547.1	Amaranthus sp.	Spain	Villarrubia de Santiago	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839547.1
+M1V_3_Spain_2015	WMV	2015-XX-XX	MN839546.1	Melon	Spain	Villarrubia de Santiago	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839546.1
+M4V_51_Spain_2015	WMV	2015-XX-XX	MN839545.1	Melon	Spain	Santa Cruz de la Zarza	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839545.1
+M4V_27_Spain_2015	WMV	2015-XX-XX	MN839544.1	Melon	Spain	Santa Cruz de la Zarza	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839544.1
+M2V_50_Spain_2015	WMV	2015-XX-XX	MN839543.1	Melon	Spain	Colmenar de oreja	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839543.1
+M2V_46_Spain_2015	WMV	2015-XX-XX	MN839542.1	Melon	Spain	Colmenar de oreja	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839542.1
+M2V_43_Spain_2015	WMV	2015-XX-XX	MN839541.1	Melon	Spain	Colmenar de oreja	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839541.1
+M2V_4_Spain_2015	WMV	2015-XX-XX	MN839540.1	Melon	Spain	Colmenar de oreja	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839540.1
+M1V_43_Spain_2015	WMV	2015-XX-XX	MN839539.1	Convolvulus arvensis	Spain	Villarrubia de Santiago	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839539.1
+M1V_29_Spain_2015	WMV	2015-XX-XX	MN839538.1	Melon	Spain	Villarrubia de Santiago	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN839538.1
+Q2F_137_Spain_2015	WMV	2015-XX-XX	MT254425.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254425.1
+Q2F_112_Spain_2015	WMV	2015-XX-XX	MT254424.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254424.1
+Q2F_109_Spain_2015	WMV	2015-XX-XX	MT254423.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254423.1
+Q2F_103_Spain_2015	WMV	2015-XX-XX	MT254422.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254422.1
+Q2F_34_Spain_2015	WMV	2015-XX-XX	MT254421.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254421.1
+Q2F_29_Spain_2015	WMV	2015-XX-XX	MT254420.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254420.1
+Q2F_144_Spain_2015	WMV	2015-XX-XX	MT254416.1	Quercus coccifera	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254416.1
+M3V_46_Spain_2015	WMV	2015-XX-XX	MN814420.1	Picris_echioides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814420.1
+M2V_37_Spain_2015	WMV	2015-XX-XX	MN814419.1	Phalaris_minor	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814419.1
+M2V_19_Spain_2015	WMV	2015-XX-XX	MN814418.1	Phalaris_minor	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814418.1
+M2V_18_Spain_2015	WMV	2015-XX-XX	MN814417.1	Phalaris_minor	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814417.1
+M2V_10_Spain_2015	WMV	2015-XX-XX	MN814416.1	Phalaris_minor	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814416.1
+M3V_36_Spain_2015	WMV	2015-XX-XX	MN814414.1	Diplotaxis_erucoides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814414.1
+M3V_13_Spain_2015	WMV	2015-XX-XX	MN814413.1	Convolvulus_arvensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814413.1
+M3V_26_Spain_2015	WMV	2015-XX-XX	MN814410.1	Chrozophora_tinctoria	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814410.1
+M3V_42_Spain_2015	WMV	2015-XX-XX	MN814409.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814409.1
+M3V_33_Spain_2015	WMV	2015-XX-XX	MN814407.1	Amaranthus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814407.1
+L3F_33_Spain_2015	WMV	2015-XX-XX	MN814406.1	Cynodon_dactylon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814406.1
+L3V_89_Spain_2015	WMV	2015-XX-XX	MN814405.1	Diplotaxis_erucoides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814405.1
+L3V_52_Spain_2015	WMV	2015-XX-XX	MN814404.1	Diplotaxis_erucoides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814404.1
+L2V_31_Spain_2015	WMV	2015-XX-XX	MN814403.1	Picris_echioides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814403.1
+L2V_27_Spain_2015	WMV	2015-XX-XX	MN814402.1	Picris_echioides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814402.1
+L2V_25_Spain_2015	WMV	2015-XX-XX	MN814401.1	Picris_echioides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814401.1
+L2V_14_Spain_2015	WMV	2015-XX-XX	MN814400.1	Picris_echioides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814400.1
+L2V_4_Spain_2015	WMV	2015-XX-XX	MN814399.1	Conyza_canadensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814399.1
+L2V_34_Spain_2015	WMV	2015-XX-XX	MN814398.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814398.1
+E1F_106_Spain_2015	WMV	2015-XX-XX	MN814390.1	Anchusa_undulata	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814390.1
+L4F_2_Spain_2015	WMV	2015-XX-XX	MN814389.1	Brachypodium_retusum	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814389.1
+M4V_50_Spain_2015	WMV	2015-XX-XX	MN814388.1	Lithospermum_arvense	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814388.1
+M4V_42_Spain_2015	WMV	2015-XX-XX	MN814387.1	Lithospermum_arvense	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814387.1
+M4V_35_Spain_2015	WMV	2015-XX-XX	MN814386.1	Lithospermum_arvense	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814386.1
+M4V_49_Spain_2015	WMV	2015-XX-XX	MN814385.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814385.1
+M4V_45_Spain_2015	WMV	2015-XX-XX	MN814384.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814384.1
+M4V_40_Spain_2015	WMV	2015-XX-XX	MN814383.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814383.1
+M4V_30_Spain_2015	WMV	2015-XX-XX	MN814382.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814382.1
+M4V_17_Spain_2015	WMV	2015-XX-XX	MN814381.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814381.1
+M3V_48_Spain_2015	WMV	2015-XX-XX	MN814380.1	Lithospermum_arvense	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814380.1
+M3V_41_Spain_2015	WMV	2015-XX-XX	MN814379.1	Lithospermum_arvense	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814379.1
+M3V_6_Spain_2015	WMV	2015-XX-XX	MN814378.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814378.1
+M3V_32_Spain_2015	WMV	2015-XX-XX	MN814377.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814377.1
+M3V_21_Spain_2015	WMV	2015-XX-XX	MN814376.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814376.1
+M3V_17_Spain_2015	WMV	2015-XX-XX	MN814375.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814375.1
+M3V_11_Spain_2015	WMV	2015-XX-XX	MN814374.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814374.1
+M2V_7_Spain_2015	WMV	2015-XX-XX	MN814373.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814373.1
+M2V_27_Spain_2015	WMV	2015-XX-XX	MN814372.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814372.1
+M2V_22_Spain_2015	WMV	2015-XX-XX	MN814371.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814371.1
+M2V_13_Spain_2015	WMV	2015-XX-XX	MN814370.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814370.1
+M2V_1_Spain_2015	WMV	2015-XX-XX	MN814369.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814369.1
+M2V_42_Spain_2015	WMV	2015-XX-XX	MN814368.1	Solanum_nigrum	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814368.1
+M2V_36_Spain_2015	WMV	2015-XX-XX	MN814367.1	Solanum_nigrum	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814367.1
+M2V_26_Spain_2015	WMV	2015-XX-XX	MN814366.1	Solanum_nigrum	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814366.1
+M2V_30_Spain_2015	WMV	2015-XX-XX	MN814365.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814365.1
+M2V_34_Spain_2015	WMV	2015-XX-XX	MN814364.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814364.1
+M2V_28_Spain_2015	WMV	2015-XX-XX	MN814363.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814363.1
+M2V_24_Spain_2015	WMV	2015-XX-XX	MN814362.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814362.1
+M2V_14_Spain_2015	WMV	2015-XX-XX	MN814361.1	Chenopodium_album	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814361.1
+M1V_50_Spain_2015	WMV	2015-XX-XX	MN814360.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814360.1
+M1V_4_Spain_2015	WMV	2015-XX-XX	MN814359.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814359.1
+M1V_27_Spain_2015	WMV	2015-XX-XX	MN814358.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814358.1
+M1V_18_Spain_2015	WMV	2015-XX-XX	MN814357.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814357.1
+M1V_13_Spain_2015	WMV	2015-XX-XX	MN814356.1	Melon	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814356.1
+M1V_5_Spain_2015	WMV	2015-XX-XX	MN814355.1	Convolvulus_arvensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814355.1
+M1V_21_Spain_2015	WMV	2015-XX-XX	MN814354.1	Convolvulus_arvensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814354.1
+M1V_16_Spain_2015	WMV	2015-XX-XX	MN814353.1	Convolvulus_arvensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814353.1
+M1V_12_Spain_2015	WMV	2015-XX-XX	MN814352.1	Convolvulus_arvensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814352.1
+M1V_11_Spain_2015	WMV	2015-XX-XX	MN814351.1	Convolvulus_arvensis	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814351.1
+M1V_7_Spain_2015	WMV	2015-XX-XX	MN814350.1	Amaranthus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814350.1
+M1V_48_Spain_2015	WMV	2015-XX-XX	MN814349.1	Amaranthus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814349.1
+M1V_2_Spain_2015	WMV	2015-XX-XX	MN814348.1	Amaranthus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814348.1
+M1V_19_Spain_2015	WMV	2015-XX-XX	MN814347.1	Amaranthus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814347.1
+M1V_17_Spain_2015	WMV	2015-XX-XX	MN814346.1	Amaranthus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814346.1
+Seongju-3_South_Korea_2015	WMV	2015-XX-XX	KT963517.1	Melon	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KT963517.1
+Seongju-2_South_Korea_2015	WMV	2015-XX-XX	KT963512.1	Melon	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KT963512.1
+Seongju-1_South_Korea_2015	WMV	2015-XX-XX	KT963510.1	Melon	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/KT963510.1
+137-2015_Italy_2015	WMV	2015-XX-XX	MN186494.1	Pumpkin	Italy	Sicily	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186494.1
+ZQ80_Argentina_2015	WMV	2015-XX-XX	MN019131.1	Pumpkin	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN019131.1
+AZ15-05_Azerbaijan_2015	WMV	2015-XX-XX	MG964212.1	Watermelon	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964212.1
+AZ15-33_Azerbaijan_2015	WMV	2015-XX-XX	MG964115.1	Melon	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964115.1
+AZ15-46_Azerbaijan_2015	WMV	2015-XX-XX	MG964125.1	Melon	Azerbaijan	Azerbaijan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG964125.1
+Cg15-5055_france_2015	WMV	2015-XX-XX	MN914159.1	Zucchini	France	Montfavet	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN914159.1
+1.1Zu_Al_Mos_2015	WMV	2015-XX-XX	OM948829.1	Zucchini	Spain	Alicante	genbank		
+IS-me2_south_korea_2015	WMV	2015-XX-XX	MN854647.1	Melon	South Korea	Hwaseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854647.1
+Malatya/WMV1_Turkey_2016	WMV	2016-XX-XX	MT186267.1	Watermelon	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT186267.1
+Q2P_149_Spain_2016	WMV	2016-XX-XX	MT254419.1	Teucrium botrys	Spain	Spain	genome	cp	
+Q2P_132_Spain_2016	WMV	2016-XX-XX	MT254418.2	Helichrysum stoechas	Spain	Spain	genome	cp	
+Q2P_88_Spain_2016	WMV	2016-XX-XX	MT254417.1	Helichrysum stoechas	Spain	Spain	genome	cp	
+Q2P_72_Spain_2016	WMV	2016-XX-XX	MT254415.1	Teucrium botrys	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254415.1
+Q2P_64_Spain_2016	WMV	2016-XX-XX	MT254414.1	Teucrium botrys	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254414.1
+Q2P_41_Spain_2016	WMV	2016-XX-XX	MT254413.1	Teucrium botrys	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254413.1
+Q2P_36_Spain_2016	WMV	2016-XX-XX	MT254412.1	Teucrium botrys	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254412.1
+Q2P_76_Spain_2016	WMV	2016-XX-XX	MT254411.1	Helichrysum stoechas	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254411.1
+Q2P_55_Spain_2016	WMV	2016-XX-XX	MT254410.1	Helichrysum stoechas	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT254410.1
+Q2P_13_Spain_2016	WMV	2016-XX-XX	MN814422.1	Taraxacum_officinale	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814422.1
+Q3P_2_Spain_2016	WMV	2016-XX-XX	MN814421.1	Rhamnus_lycioides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814421.1
+E4P_31_Spain_2016	WMV	2016-XX-XX	MN814415.1	Hordeum_matritense	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814415.1
+Q2P_93_Spain_2016	WMV	2016-XX-XX	MN814412.1	Cistus_salviifolius	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814412.1
+Q2P_141_Spain_2016	WMV	2016-XX-XX	MN814411.1	Cistus_salviifolius	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814411.1
+E1P_87_Spain_2016	WMV	2016-XX-XX	MN814408.1	Bromus_sp	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814408.1
+L3P_2_Spain_2016	WMV	2016-XX-XX	MN814397.1	Diplotaxis_erucoides	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814397.1
+L2P_24_Spain_2016	WMV	2016-XX-XX	MN814396.1	Carduus_bourgeanus	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814396.1
+Q2P_63_Spain_2016	WMV	2016-XX-XX	MN814395.1	Staehelina_dubia	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814395.1
+Q2P_29_Spain_2016	WMV	2016-XX-XX	MN814394.1	Staehelina_dubia	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814394.1
+Q2P_26_Spain_2016	WMV	2016-XX-XX	MN814393.1	Staehelina_dubia	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814393.1
+Q2P_14_Spain_2016	WMV	2016-XX-XX	MN814392.1	Staehelina_dubia	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814392.1
+WMV-GZcc_China_2016	WMV	2016-07-XX	MF418045.1	Ailanthus altissima	China	Liaoning	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MF418045.1
+WMV-GZcb_China_2016	WMV	2016-07-XX	MF418044.1	Ailanthus altissima	China	Liaoning	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MF418044.1
+Q2P_136_Spain_2016	WMV	2016-XX-XX	MN814391.1	Staehelina_dubia	Spain	Spain	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN814391.1
+WMV2-Gyeonsan_South_Korea_2016	WMV	2016-XX-XX	LC201924.1	Melon	South Korea	Gyeonsan	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC201924.1
+323-2016_Italy_2016	WMV	2016-XX-XX	MN186512.1	Pumpkin	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186512.1
+318-2016_Italy_2016	WMV	2016-XX-XX	 MN186511.1	Pumpkin	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186511.1
+218-2016_Italy_2016	WMV	2016-XX-XX	MN186510.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186510.1
+203-2016_Italy_2016	WMV	2016-XX-XX	MN186509.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186509.1
+187-2016_Italy_2016	WMV	2016-XX-XX	MN186508.1	Watermelon	Italy	Sicily	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186508.1
+144-2016_Italy_2016	WMV	2016-XX-XX	MN186507.1	Melon	Italy	Lombardy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186507.1
+143-2016_Italy_2016	WMV	2016-XX-XX	MN186506.1	Melon	Italy	Lombardy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186506.1
+142-2016_Italy_2016	WMV	2016-XX-XX	MN186505.1	Melon	Italy	Lombardy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186505.1
+141-2016_Italy_2016	WMV	2016-XX-XX	MN186504.1	Melon	Italy	Lombardy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186504.1
+139-2016_Italy_2016	WMV	2016-XX-XX	MN186503.1	Melon	Italy	Lombardy	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186503.1
+128-2016_Italy_2016	WMV	2016-XX-XX	MN186502.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186502.1
+125-2016_Italy_2016	WMV	2016-XX-XX	MN186501.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186501.1
+120-2016_Italy_2016	WMV	2016-XX-XX	MN186500.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186500.1
+118-2016_Italy_2016	WMV	2016-XX-XX	MN186599.1	Melon	Italy	Latium	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186499.1
+72-2016_Italy_2016	WMV	2016-XX-XX	MN186498.1	Melon	Italy	Sardinia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186498.1
+67-2016_Italy_2016	WMV	2016-XX-XX	MN186497.1	Melon	Italy	Sardinia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186497.1
+53-2016_Italy_2016	WMV	2016-XX-XX	MN186496.1	Melon	Italy	Sardinia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186496.1
+44-2016_Italy_2016	WMV	2016-XX-XX	MN186495.1	Melon	Italy	Sardinia	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN186495.1
+Alakoy-2_Turkey_2016	WMV	2016-XX-XX	MG952635.1	Melon	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG952635.1
+SJLanda_Argentina_2016	WMV	2016-XX-XX	MN006946.1	Melon	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN006946.1
+EM160203_France_2016	WMV	2016-XX-XX	MN990913.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990913.1
+EM160492_France_2016	WMV	2016-XX-XX	MN990906.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990906.1
+EM170632_France_2017	WMV	2017-XX-XX	MN990910.1	Zucchini	France	France	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990910.1
+7.3TUC_Argentina_2017	WMV	2017-XX-XX	MN006938.1	Pumpkin	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN006938.1
+Sa_south_korea_2016	WMV	2016-XX-XX	LC412927.1	Sicyos angulatus	South Korea	Gapyeong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/LC412927.1
+passiflora_usa_2016	WMV	2016-XX-XX	KX512320.1	Passiflora edulis	USA	USA	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KX512320.1
+hollyhock_china_2016	WMV	2016-XX-XX	MK217416.1	hollyhock	China	Shanxi	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MK217416.1
+WMV-WS_china_2016	WMV	2016-XX-XX	KX664483.1	Zucchini	China	Shanxi	genbank		https://www.ncbi.nlm.nih.gov/nuccore/KX664483.1
+EM16093_france_2016	WMV	2016-XX-XX	MN914160.1	Melon	France	Brignon	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN914160.1
+2.2Me_Al_Mos_2016	WMV	2016-XX-XX	OM948823.1	Melon	Spain	Alicante	genbank		
+8.1Me_Mu_Mos_2016	WMV	2016-XX-XX	OM948815.1	Melon	Spain	Murcia	genbank		
+1.1Zu_Mu_Yel_2016	WMV	2016-XX-XX	OM948820.1	Zucchini	Spain	Murcia	genbank		
+Henan_china_2016	WMV	2016-XX-XX	OK050524.1	Cotton	China	Henan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/OK050524.1
+IBRSESA-WMV1_South_Korea_2017	WMV	2017-XX-XX	MF970466.1	Sesamum indicum	South Korea	Andong	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MF970466.1
+WMV-Li_CPvar2_China_2017	WMV	2017-XX-XX	MG194420.1	Lagerstroemia indica	China	Zhejiang	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG194420.1
+WMV-Li_China_2017	WMV	2017-XX-XX	MG194419.1	Lagerstroemia indica	China	Zhejiang	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG194419.1
+HN-W8_China_2017	WMV	2017-XX-XX	MN542778.1	Watermelon	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN542778.1
+NJ-me11_south_korea_2017	WMV	2017-XX-XX	MN854649.1	Melon	South Korea	Naju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854649.1 
+NJ-me10_south_korea_2017	WMV	2017-XX-XX	MN854648.1	Melon	South Korea	Naju	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854648.1
+WMV-Li_china_2017	WMV	2017-XX-XX	MG194418.1	Melon	China	Zhejiang	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MG194418.1
+HS-sq6_south_korea_2017	WMV	2017-XX-XX	MN854646.1	Pumpkin	South Korea	Hwaseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854646.1
+HS-om3_south_korea_2017	WMV	2017-XX-XX	MN854645.1	Melon	South Korea	Hwaseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854645.1
+HS-me4_south_korea_2017	WMV	2017-XX-XX	MN854644.1	Melon	South Korea	Hwaseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854644.1
+CN-wm1_south_korea_2017	WMV	2017-XX-XX	MN854638.1	Watermelon	South Korea	South Korea	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854638.1
+6.1Me_Al_Mos_2017	WMV	2017-XX-XX	OM948825.1	Melon	Spain	Alicante	genbank		
+8.1Me_Al_Mos_2017	WMV	2017-XX-XX	OM948824.1	Melon	Spain	Alicante	genbank		
+D2_Poland_2018	WMV	2018-XX-XX	MH992141.1	Pumpkin	Poland	Poland	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH992141.1
+D1_Poland_2018	WMV	2018-XX-XX	MH917120.1	Pumpkin	Poland	Poland	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH917120.1
+Tab32_Iran_2018	WMV	2018-XX-XX	MH711921.1	Zucchini	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH711921.1
+T5Ngd_Iran_2018	WMV	2018-XX-XX	MH711919.1	Zucchini	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH711919.1
+T4mdb_Iran_2018	WMV	2018-XX-XX	MH711917.1	Watermelon	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH711917.1
+T1Ahr_Iran_2018	WMV	2018-XX-XX	MH711915.1	Cucumber	Iran	Iran	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH711915.1
+AS_South_Korea_2018	WMV	2018-XX-XX	LC434453.1	Panax ginseng	South Korea	Gyeonggido	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC434453.1
+SJ_South_Korea_2018	WMV	2018-XX-XX	LC434452.1	Panax ginseng	South Korea	Sejong	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC434452.1
+GS_South_Korea_2018	WMV	2018-XX-XX	LC434451.1	Panax ginseng	South Korea	Chungcheongbukdo	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC434451.1
+GJ_South_Korea_2018	WMV	2018-XX-XX	LC434450.1	Panax ginseng	South Korea	Jeollanamdo	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC434450.1
+andong_China_2018	WMV	2018-XX-XX	LC406871.1	Scrophularia buergeriana	China	Gyeongsang	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC406871.1
+KSNG-WMV_China_2018	WMV	2018-XX-XX	MK675899.1	Pumpkin	China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK675899.1
+X11+12-WMV_China_2018	WMV	2018-XX-XX	MK015646.1		China	China	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK015646.1
+ESS-Esk10/5_Turkey_2018	WMV	2018-XX-XX	MW362129.1	Pumpkin	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW362129.1
+1.8TUC_Argentina_2018	WMV	2018-XX-XX	MN006906.1	Pumpkin	Argentina	Argentina	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN006906.1
+7.2Me_Al_Mos_2018	WMV	2018-XX-XX	OM948826.1	Melon	Spain	Alicante	genbank		
+64.2Me_CLM_Mos_2018	WMV	2018-XX-XX	OM948832.1	Melon	Spain	C. La-Mancha	genbank		
+WMV-Egy1_Egypt_2019	WMV	2019-XX-XX	MN966673.1	Zucchini	Egypt	Egypt	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN966673.1
+ESS-NVS5/3_Turkey_2019	WMV	2019-XX-XX	MW362131.1	Pumpkin	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW362131.1
+Bingol-W4_Turkey_2019	WMV	2019-XX-XX	MT437295.1	Melon	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT437295.1
+57.1Me_CLM_Yel_2019	WMV	2019-XX-XX	OM948833.1	Melon	Spain	C. La-Mancha	genbank		
+TA-om3_south_korea_2019	WMV	2019-XX-XX	MN854651.1	Melon	South Korea	Taean	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854651.1
+TA-om2_south_korea_2019	WMV	2019-XX-XX	MN854650.1	Melon	South Korea	Taean	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854650.1 
+GC-wm2_south_korea_2019	WMV	2019-XX-XX	MN854643.1	Watermelon	South Korea	Gochang	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854643.1
+GC-wm1_south_korea_2019	WMV	2019-XX-XX	MN854642.1	Watermelon	South Korea	Gochang	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854642.1
+ES-gs2_south_korea_2019	WMV	2019-XX-XX	MN854641.1	Zucchini	South Korea	Eumseong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854641.1
+DJ-sq3_south_korea_2019	WMV	2019-XX-XX	MN854640.1	Zucchini	South Korea	Daejeon	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854640.1
+DJ-sq1_south_korea_2019	WMV	2019-XX-XX	MN854639.1	Zucchini	South Korea	Daejeon	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854639.1
+CN-sm2-2_south_korea_2019	WMV	2019-XX-XX	MN854637.1	Zucchini	South Korea	Changnyeong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854637.1
+CN-sm2-1_south_korea_2019	WMV	2019-XX-XX	MN854636.1	Zucchini	South Korea	Changnyeong	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN854636.1
+CH99/69_china_2019	WMV	2019-XX-XX	MN296125.1	Zucchini	China	Henan	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MN296125.1
+50.2Zu_Al_Yel_2019	WMV	2019-XX-XX	OM948831.1	Zucchini	Spain	Alicante	genbank		
+7.1Me_Mu_Mos_2019	WMV	2019-XX-XX	OM948816.1	Melon	Spain	Murcia	genbank		
+58.1Zu_Al_Yel_2019	WMV	2019-XX-XX	OM948830.1	Zucchini	Spain	Alicante	genbank		
+22.1Zu_Mu_Yel_2019	WMV	2019-XX-XX	OM948822.1	Zucchini	Spain	Murcia	genbank		
+4.1Zu_Mu_Mos_2019	WMV	2019-XX-XX	OM948821.1	Zucchini	Spain	Murcia	genbank		
+9.1Me_Mu_Mos_2019	WMV	2019-XX-XX	OM948817.1	Melon	Spain	Murcia	genbank		
+Urumqi_china_2020	WMV	2019-XX-XX	MW345911.1	Cucumis metulifer	China	Xijiang	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MW345911.1 
+Kr-1_south_korea_2020	WMV	2019-XX-XX	MW509731.1	Watermelon	South Korea	South Korea	genbank		https://www.ncbi.nlm.nih.gov/nuccore/MW509731.1
+PF_South_Korea_2020	WMV	2020-XX-XX	LC586073.1	Perilla frutescens	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC586073.1
+1.1Me_Mu_Mos_2020	WMV	2020-XX-XX	OM948819.1	Melon	Spain	Murcia	genbank		
+5.1Me_Mu_Mos_2020	WMV	2020-XX-XX	OM948818.1	Melon	Spain	Murcia	genbank		
+10.2Me_Al_Mos_2020	WMV	2020-XX-XX	OM948827.1	Melon	Spain	Alicante	genbank		
+JB-pumpkin_South_Korea_2021	WMV	2021-XX-XX	OL827566.1	Pumpkin	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/OL827566.1
+GN-cucumber_South_Korea_2021	WMV	2021-XX-XX	OL827554.1	Cucumber	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/OL827554.1
+GN-zucchini_South_Korea_2021	WMV	2021-XX-XX	OL622021.1	Zucchini	South Korea	South Korea	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/OL622021.1
+WMV_YJ-1_CP_South_Korea_2021	WMV	2021-XX-XX	OK587333.1	Cucurbit	South Korea	Yeongyang	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/OK587333.1
+WMV_YY_CP_South_Korea_2021	WMV	2021-XX-XX	OK587332.1	Cucurbit	South Korea	Yeongyang	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/OK587332.1
+Carrot_4_CP_Turkey_2021	WMV	2021-XX-XX	ON676067.1	wild carrot	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/ON676067.1
+Carrot_3_CP_Turkey_2021	WMV	2021-XX-XX	ON676066.1	wild carrot	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/ON676066.1
+Carrot_2_CP_Turkey_2021	WMV	2021-XX-XX	ON676065.1	wild carrot	Turkey	Turkey	genome	cp	https://www.ncbi.nlm.nih.gov/nuccore/ON676065.1
